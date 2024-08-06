@@ -1,0 +1,3 @@
+Issues servem para:
+- Abrir tarefas para novas funcionalidades.
+- Abrir tarefa para corrigir um bug.
